@@ -1,0 +1,21 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: pink;  
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #fff;
+}
